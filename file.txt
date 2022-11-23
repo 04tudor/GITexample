@@ -1,6 +1,6 @@
 git init
 git clone link
-git status
-git add (.-all new )
-git push
-git commit -m ("message")
+0.git status
+1.git add (.-all new )
+2.git commit -m ("message")
+3.git push origin
